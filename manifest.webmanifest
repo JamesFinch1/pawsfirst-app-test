@@ -1,0 +1,9 @@
+{
+  "name": "PawsFirst",
+  "short_name": "PawsFirst",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#143c2f",
+  "icons": []
+}
